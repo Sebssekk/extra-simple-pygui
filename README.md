@@ -18,3 +18,7 @@
    ``` 
    Questo creerà una cartella `dist` con all'interno un file eseguibile `main` su Linux o `main.exe` su Windows.
 4) Il file può essere eseguito senza bisogno di installare Python.
+
+## **Disclaimer**
+**PySimpleGUI** è open source fino alla versione 4 (qui usata).
+Dalla versione 5 hanno aggiunto una licenza (per quanto gratuita)
